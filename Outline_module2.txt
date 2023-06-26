@@ -1,0 +1,63 @@
+CSS has 3 types:
+
+1.inline 2. internal 3.external
+
+internal CSS example:
+
+<head>
+        
+          <style> 
+          
+                     p{
+                        color:red;
+                        background-color:red;
+                        font:17px;
+                        height:50px;
+                        width:70%
+                     }
+
+                     h1{
+
+                        color:blue;
+                        
+                     }
+
+
+                     /* clas example */
+
+                .powerful{
+                    color: burlywood;
+                    font-size: 16px;
+                    font-style:bold;
+                }
+
+                /* id example */
+
+                #stronger{
+                    color: rgb(14, 29, 138);
+                    font-size: 15px;
+                    font-style: italic;
+                }
+          
+          </style>
+
+
+          border: 3 ta value na color,kamon hba , koto tuku hba.
+          border-radius: koto tuku hba
+          margin: top , bottom , left , right hba
+          padding: value dita hba.
+
+
+
+
+        
+
+</head>
+
+<body>
+
+       <p class="powerful">Putin is more powerful than joe Biden.</p>
+        <p id="stronger">Hasina is more powerful than Oong song suchi.</p>
+
+
+</body>

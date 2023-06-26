@@ -1,0 +1,15 @@
+h1{
+    color: rgb(45, 218, 10);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h2{
+    color: rgb(153, 51, 73);
+    font-weight: 700;
+}
+
+
+body{
+    background-color: rgb(97, 97, 171);
+}
